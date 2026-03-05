@@ -10,7 +10,7 @@ class DNSEntry {
     }
 }
 
-public class Week01and02Problems {
+public class Week01andWeek02Problems {
     static HashMap<String, DNSEntry> cache = new HashMap<>();
 
     public static void main(String[] args) {
